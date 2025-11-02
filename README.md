@@ -107,8 +107,5 @@ Ce projet est libre d’utilisation à des fins éducatives et universitaires.
 
 
 
----
 
-Souhaites-tu que je te fasse une **version “GitHub stylisée”** de ce README (avec des badges de langage, couleurs et titres décoratifs comme un projet pro open-source) ?  
-👉 Cela rend ton dépôt **beaucoup plus attractif visuellement** et professionnel sur ton profil GitHub.
 
