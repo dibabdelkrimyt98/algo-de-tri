@@ -56,6 +56,7 @@ Résultat : [2, 24, 45, 66, 75, 90, 170, 802]
 ---
 
 ## 📂 Structure du projet
+```bash
 TP2-Algorithmique-TriLineaire-Java/
 │
 ├── src/
@@ -64,7 +65,7 @@ TP2-Algorithmique-TriLineaire-Java/
 │ └── TriParBase.java # Implémentation du tri par base (Radix Sort)
 │
 └── README.md
-
+```
 
 ---
 
